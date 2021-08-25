@@ -1,0 +1,50 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "body": "lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet.",
+      "author": "Ahmad",
+      "likes": 12,
+      "date": "12 03 2012"
+    },
+    {
+      "id": 3,
+      "body": "lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet lorem Ipsum Dolor Sit Amet.",
+      "author": "Dina",
+      "likes": 49,
+      "date": "08 11 2012"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmad",
+      "city": "Jakarta",
+      "browser": "Chrome"
+    },
+    {
+      "id": 2,
+      "name": "Budi",
+      "city": "Bekasi",
+      "browser": "Chrome"
+    },
+    {
+      "id": 3,
+      "name": "Hana",
+      "city": "Jakarta",
+      "browser": "Chrome"
+    },
+    {
+      "id": 4,
+      "name": "Gopal",
+      "city": "Malang",
+      "browser": "Chrome"
+    },
+    {
+      "id": 5,
+      "name": "Nisa",
+      "city": "Bandung",
+      "browser": "Chrome"
+    }
+  ]
+}
